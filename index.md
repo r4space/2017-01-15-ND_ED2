@@ -698,7 +698,7 @@ eventbrite: null          # optional: alphanumeric key for Eventbrite registrati
     <a href="https://github.com/ContinuumIO/anaconda-issues/issues/307">without support to <code>readline</code></a>.
     Instructors will provide a workaround for it if needed.</strong></p>
 </div> {% comment %} End of 'SQLite' section. {% endcomment %}
--->
+
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
   <h3>OpenRefine</h3>
   <p>
@@ -771,3 +771,5 @@ eventbrite: null          # optional: alphanumeric key for Eventbrite registrati
   </ol>
 </div>
 {% endcomment %}
+-->
+
