@@ -509,7 +509,6 @@ eventbrite: null          # optional: alphanumeric key for Eventbrite registrati
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
 
-{% comment %}yy
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
            the workshop will teach Python using something other than
            the Jupyter notebook.
@@ -746,7 +745,6 @@ eventbrite: null          # optional: alphanumeric key for Eventbrite registrati
     </div>
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
-{% endcomment %}
 
 {% comment %}
 <div id="vm">
