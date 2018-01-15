@@ -508,8 +508,7 @@ eventbrite: null          # optional: alphanumeric key for Eventbrite registrati
     </div>
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
-
-{% comment %}
+<!--
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
            the workshop will teach Python using something other than
            the Jupyter notebook.
@@ -602,7 +601,6 @@ eventbrite: null          # optional: alphanumeric key for Eventbrite registrati
   </p>
 {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
-{% endcomment %}
 
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
@@ -700,7 +698,7 @@ eventbrite: null          # optional: alphanumeric key for Eventbrite registrati
     <a href="https://github.com/ContinuumIO/anaconda-issues/issues/307">without support to <code>readline</code></a>.
     Instructors will provide a workaround for it if needed.</strong></p>
 </div> {% comment %} End of 'SQLite' section. {% endcomment %}
-
+-->
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
   <h3>OpenRefine</h3>
   <p>
