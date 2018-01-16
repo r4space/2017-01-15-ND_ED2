@@ -129,30 +129,6 @@ eventbrite: null          # optional: alphanumeric key for Eventbrite registrati
 </p>
 
 {% comment %}
-  ACCESSIBILITY
-
-  Modify the block below if there are any barriers to accessibility or
-  special instructions.
-{% endcomment %}
-<p id="accessibility">
-  <strong>Accessibility:</strong> We are committed to making this workshop
-  accessible to everybody.
-  The workshop organisers have checked that:
-</p>
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
-<p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
-  attempt to provide them.
-</p>
-
-{% comment %}
   CONTACT EMAIL ADDRESS
 
   Display the contact email address set in the configuration file.
